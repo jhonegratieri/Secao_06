@@ -1,2 +1,2 @@
 # Secao_06
-Exercises solved about functions in Python.
+Exercises solved about repetition structures in Python.
